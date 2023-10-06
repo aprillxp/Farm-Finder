@@ -1,0 +1,17 @@
+[
+  {
+    "investorId": 1,
+    "farmId": 1, 
+    "description": "This farm is recommended for family invesment!"
+  },
+  {
+    "investorId": 1,
+    "farmId": 1,
+    "description": "Very good service, good land to invest here or build a business"
+  },
+  {
+    "investorId": 1,
+    "farmId": 1,
+    "description": "The land is not as expected, there are many shortcomings"
+  }
+]

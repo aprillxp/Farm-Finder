@@ -1,0 +1,30 @@
+[
+  {
+    "status": "success",
+    "ownership": 1,
+    "totalPrice": 100,
+    "farmId": 1,
+    "investorId": 1
+  },
+  {
+    "status": "success",
+    "ownership": 2,
+    "totalPrice": 200,
+    "farmId": 1,
+    "investorId": 1
+  },
+  {
+    "status": "failed",
+    "ownership": 3,
+    "totalPrice": 300,
+    "farmId": 1,
+    "investorId": 1
+  },
+  {
+    "status": "failed",
+    "ownership": 4,
+    "totalPrice": 400,
+    "farmId": 1,
+    "investorId": 1
+  }
+]
